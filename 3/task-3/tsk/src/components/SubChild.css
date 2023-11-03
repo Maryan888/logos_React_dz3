@@ -1,0 +1,12 @@
+.box1{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(53, 28, 119);
+  color: aliceblue;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(105, 54, 62);
+  color: aliceblue;
+}

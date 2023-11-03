@@ -1,0 +1,21 @@
+
+.UsersComponent{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+}
+
+.userComponent{
+  display: flex;
+  flex-direction: column;
+  border: 2px solid blueviolet;
+  width: 300px;
+  /* display: none; */
+
+  
+}
+button{
+  cursor: pointer;
+  background-color: blueviolet;
+  color: white;
+}
